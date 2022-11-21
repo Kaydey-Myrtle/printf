@@ -1,6 +1,6 @@
-*
+/*
  * File: _printf.c
- * Auth: Oghenekparobo Onosemuode and Ukonu Divine Chisom
+ * Auth: Ibrahim Ibrahim And Adebayo Isreal
  */
 
 #include "main.h"
