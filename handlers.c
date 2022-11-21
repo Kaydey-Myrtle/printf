@@ -3,7 +3,7 @@
  * Auth: Ibrahim Ibrahim And Adebayo Isreal
  */
 
-#include "holberton.h"
+#include "main.h"
 
 unsigned char handle_flags(const char *flag, char *index);
 unsigned char handle_length(const char *modifier, char *index);
